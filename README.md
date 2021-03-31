@@ -1,1 +1,2 @@
-# hammer-stone-rubber
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
